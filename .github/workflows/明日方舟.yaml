@@ -1,4 +1,4 @@
-name: Fetch Game Info and Download APK
+name: Mirror 明日方舟 From Bilibili
 
 on:
   workflow_dispatch:
